@@ -1,6 +1,6 @@
 # Frontend Mentor - Bookmark landing page
 
-live at: bookmark-landing-page-master
+live at : https://tuyishimekyrie.github.io/bookmark-landing-page-master/
 
 ![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)
 
