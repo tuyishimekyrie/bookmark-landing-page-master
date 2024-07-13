@@ -33,7 +33,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/mobile-design.jpg)
+![](./design/tab-2-design.jpg.jpg)
 
 
 
