@@ -1,5 +1,9 @@
 # Frontend Mentor - Bookmark landing page solution
 
+live at : https://tuyishimekyrie.github.io/bookmark-landing-page-master/
+
+![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)
+
 This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
