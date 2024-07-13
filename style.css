@@ -64,7 +64,7 @@
   cursor: pointer;
   color: var(--Soft-Red);
   border: 1px solid var(--Soft-Red);
-  transition: all 0.15s ease-in-out;
+  transition: all 0.35s ease-in-out;
 }
 .mobile-nav {
   display: none;
